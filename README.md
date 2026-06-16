@@ -1,5 +1,5 @@
 # All In One WP Migration Fork ###
-### I'm abandoning All-in-One WP Migration and switching to Duplicator. ###
+### I'm abandoning All-in-One WP Migration and switching to Duplicator on 2026/06/17. ###
 ### (from Version 6.77) try Restore on 2026/06/17  Unable to import:The archive file is corrupted. can not resolve the problem.  ###
 
 
