@@ -1,6 +1,8 @@
 # All In One WP Migration Fork ###
-### (from Version 6.77) ###
-### (try Restore on 2026/06/17) ###
+### I'm abandoning All-in-One WP Migration and switching to Duplicator. ###
+### (from Version 6.77) try Restore on 2026/06/17  Unable to import:The archive file is corrupted. Follow this article to resolve the problem.  ###
+
+
 This is the last version of the All In One WP Migration plugin to include import functionality functionality. Versions after this were also stripped of WP-CLI functionality.
 
 The file upload size limit has been modified to be `32GB`. To change this you may define the limit in byes on line 284 in `constants.php` (if 32 Gigs doesn't float your boat). 
